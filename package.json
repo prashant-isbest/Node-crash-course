@@ -1,0 +1,24 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-isbest/Node-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-isbest/Node-crash-course/issues"
+  },
+  "homepage": "https://github.com/prashant-isbest/Node-crash-course#readme"
+}

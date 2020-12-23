@@ -30,4 +30,4 @@ readStream3.on('data', (chunk) => {
 });
 
 //piping
-readStream3.pipe(writeStream());
+readStream3.pipe(writeStream);
